@@ -1,0 +1,341 @@
+city,locality,pincode,year_offset,yoy_appreciation_pct,cumulative_index
+Mumbai,Bandra West,400050,1,5.24,1.052
+Mumbai,Bandra West,400050,2,3.87,1.093
+Mumbai,Bandra West,400050,3,5.56,1.154
+Mumbai,Bandra West,400050,4,5.07,1.212
+Mumbai,Bandra West,400050,5,6.79,1.295
+Mumbai,Andheri West,400058,1,5.79,1.058
+Mumbai,Andheri West,400058,2,6.89,1.131
+Mumbai,Andheri West,400058,3,5.32,1.191
+Mumbai,Andheri West,400058,4,6.22,1.265
+Mumbai,Andheri West,400058,5,4.3,1.319
+Mumbai,Powai,400076,1,8.65,1.086
+Mumbai,Powai,400076,2,6.48,1.157
+Mumbai,Powai,400076,3,6.07,1.227
+Mumbai,Powai,400076,4,7.82,1.323
+Mumbai,Powai,400076,5,9.07,1.443
+Mumbai,Malad West,400064,1,14.32,1.143
+Mumbai,Malad West,400064,2,4.97,1.2
+Mumbai,Malad West,400064,3,9.6,1.315
+Mumbai,Malad West,400064,4,10.37,1.452
+Mumbai,Malad West,400064,5,7.24,1.557
+Mumbai,Thane West,400601,1,5.59,1.056
+Mumbai,Thane West,400601,2,11.03,1.172
+Mumbai,Thane West,400601,3,4.77,1.228
+Mumbai,Thane West,400601,4,8.74,1.336
+Mumbai,Thane West,400601,5,5.42,1.408
+Mumbai,Mulund West,400080,1,7.65,1.076
+Mumbai,Mulund West,400080,2,2.86,1.107
+Mumbai,Mulund West,400080,3,4.4,1.156
+Mumbai,Mulund West,400080,4,2.07,1.18
+Mumbai,Mulund West,400080,5,15.51,1.363
+Mumbai,Chembur,400071,1,3.13,1.031
+Mumbai,Chembur,400071,2,7.77,1.111
+Mumbai,Chembur,400071,3,4.49,1.161
+Mumbai,Chembur,400071,4,1.24,1.176
+Mumbai,Chembur,400071,5,6.53,1.252
+Mumbai,Kandivali East,400101,1,15.24,1.152
+Mumbai,Kandivali East,400101,2,5.16,1.212
+Mumbai,Kandivali East,400101,3,13.03,1.37
+Mumbai,Kandivali East,400101,4,13.41,1.554
+Mumbai,Kandivali East,400101,5,4.28,1.62
+Mumbai,Goregaon West,400062,1,2.55,1.025
+Mumbai,Goregaon West,400062,2,4.43,1.071
+Mumbai,Goregaon West,400062,3,8.18,1.158
+Mumbai,Goregaon West,400062,4,1.97,1.181
+Mumbai,Goregaon West,400062,5,6.99,1.264
+Mumbai,Dombivli,421201,1,9.44,1.094
+Mumbai,Dombivli,421201,2,6.04,1.16
+Mumbai,Dombivli,421201,3,6.78,1.239
+Mumbai,Dombivli,421201,4,8.18,1.341
+Mumbai,Dombivli,421201,5,9.4,1.467
+Bangalore,Indiranagar,560038,1,6.47,1.065
+Bangalore,Indiranagar,560038,2,4.0,1.107
+Bangalore,Indiranagar,560038,3,4.38,1.156
+Bangalore,Indiranagar,560038,4,5.24,1.216
+Bangalore,Indiranagar,560038,5,3.31,1.257
+Bangalore,Whitefield,560066,1,12.32,1.123
+Bangalore,Whitefield,560066,2,5.0,1.179
+Bangalore,Whitefield,560066,3,8.91,1.284
+Bangalore,Whitefield,560066,4,6.71,1.371
+Bangalore,Whitefield,560066,5,7.51,1.474
+Bangalore,Koramangala,560034,1,6.9,1.069
+Bangalore,Koramangala,560034,2,4.81,1.12
+Bangalore,Koramangala,560034,3,3.66,1.161
+Bangalore,Koramangala,560034,4,3.38,1.201
+Bangalore,Koramangala,560034,5,6.02,1.273
+Bangalore,HSR Layout,560102,1,6.89,1.069
+Bangalore,HSR Layout,560102,2,4.98,1.122
+Bangalore,HSR Layout,560102,3,8.2,1.214
+Bangalore,HSR Layout,560102,4,4.35,1.267
+Bangalore,HSR Layout,560102,5,4.24,1.321
+Bangalore,Electronic City,560100,1,8.34,1.083
+Bangalore,Electronic City,560100,2,7.64,1.166
+Bangalore,Electronic City,560100,3,1.08,1.179
+Bangalore,Electronic City,560100,4,6.67,1.257
+Bangalore,Electronic City,560100,5,11.52,1.402
+Bangalore,Hebbal,560024,1,6.34,1.063
+Bangalore,Hebbal,560024,2,7.38,1.142
+Bangalore,Hebbal,560024,3,4.42,1.192
+Bangalore,Hebbal,560024,4,8.34,1.292
+Bangalore,Hebbal,560024,5,8.97,1.408
+Bangalore,JP Nagar,560078,1,11.71,1.117
+Bangalore,JP Nagar,560078,2,6.53,1.19
+Bangalore,JP Nagar,560078,3,6.72,1.27
+Bangalore,JP Nagar,560078,4,9.4,1.389
+Bangalore,JP Nagar,560078,5,7.04,1.487
+Bangalore,Sarjapur Road,560035,1,11.83,1.118
+Bangalore,Sarjapur Road,560035,2,12.29,1.256
+Bangalore,Sarjapur Road,560035,3,4.18,1.308
+Bangalore,Sarjapur Road,560035,4,3.97,1.36
+Bangalore,Sarjapur Road,560035,5,6.38,1.447
+Bangalore,Yelahanka,560064,1,1.25,1.012
+Bangalore,Yelahanka,560064,2,17.35,1.188
+Bangalore,Yelahanka,560064,3,3.26,1.227
+Bangalore,Yelahanka,560064,4,14.19,1.401
+Bangalore,Yelahanka,560064,5,4.36,1.462
+Bangalore,Malleshwaram,560003,1,5.79,1.058
+Bangalore,Malleshwaram,560003,2,5.92,1.121
+Bangalore,Malleshwaram,560003,3,2.42,1.148
+Bangalore,Malleshwaram,560003,4,4.37,1.198
+Bangalore,Malleshwaram,560003,5,6.55,1.276
+Delhi NCR,Gurgaon Sector 54,122002,1,4.62,1.046
+Delhi NCR,Gurgaon Sector 54,122002,2,5.58,1.105
+Delhi NCR,Gurgaon Sector 54,122002,3,4.81,1.158
+Delhi NCR,Gurgaon Sector 54,122002,4,5.57,1.222
+Delhi NCR,Gurgaon Sector 54,122002,5,6.02,1.296
+Delhi NCR,Noida Sector 62,201301,1,5.63,1.056
+Delhi NCR,Noida Sector 62,201301,2,6.01,1.12
+Delhi NCR,Noida Sector 62,201301,3,5.37,1.18
+Delhi NCR,Noida Sector 62,201301,4,3.52,1.222
+Delhi NCR,Noida Sector 62,201301,5,7.41,1.312
+Delhi NCR,Dwarka Expressway,122018,1,7.74,1.077
+Delhi NCR,Dwarka Expressway,122018,2,11.28,1.199
+Delhi NCR,Dwarka Expressway,122018,3,13.34,1.359
+Delhi NCR,Dwarka Expressway,122018,4,5.89,1.439
+Delhi NCR,Dwarka Expressway,122018,5,6.26,1.529
+Chennai,Adyar,600020,1,3.76,1.038
+Chennai,Adyar,600020,2,6.24,1.102
+Chennai,Adyar,600020,3,2.85,1.134
+Chennai,Adyar,600020,4,4.91,1.189
+Chennai,Adyar,600020,5,2.72,1.222
+Chennai,OMR Sholinganallur,600119,1,11.92,1.119
+Chennai,OMR Sholinganallur,600119,2,9.69,1.228
+Chennai,OMR Sholinganallur,600119,3,5.61,1.296
+Chennai,OMR Sholinganallur,600119,4,12.9,1.464
+Chennai,OMR Sholinganallur,600119,5,5.11,1.538
+Chennai,Anna Nagar,600040,1,6.24,1.062
+Chennai,Anna Nagar,600040,2,1.59,1.079
+Chennai,Anna Nagar,600040,3,7.25,1.158
+Chennai,Anna Nagar,600040,4,5.29,1.219
+Chennai,Anna Nagar,600040,5,5.55,1.287
+Hyderabad,Jubilee Hills,500033,1,3.34,1.033
+Hyderabad,Jubilee Hills,500033,2,3.18,1.066
+Hyderabad,Jubilee Hills,500033,3,3.84,1.107
+Hyderabad,Jubilee Hills,500033,4,6.05,1.174
+Hyderabad,Jubilee Hills,500033,5,4.99,1.233
+Hyderabad,Gachibowli,500032,1,4.26,1.043
+Hyderabad,Gachibowli,500032,2,1.55,1.059
+Hyderabad,Gachibowli,500032,3,9.92,1.164
+Hyderabad,Gachibowli,500032,4,1.05,1.176
+Hyderabad,Gachibowli,500032,5,8.26,1.273
+Hyderabad,Kukatpally,500072,1,8.98,1.09
+Hyderabad,Kukatpally,500072,2,6.9,1.165
+Hyderabad,Kukatpally,500072,3,5.78,1.232
+Hyderabad,Kukatpally,500072,4,9.8,1.353
+Hyderabad,Kukatpally,500072,5,10.78,1.499
+Pune,Koregaon Park,411001,1,5.82,1.058
+Pune,Koregaon Park,411001,2,5.84,1.12
+Pune,Koregaon Park,411001,3,2.69,1.15
+Pune,Koregaon Park,411001,4,3.68,1.192
+Pune,Koregaon Park,411001,5,3.74,1.237
+Pune,Hinjewadi,411057,1,7.67,1.077
+Pune,Hinjewadi,411057,2,8.35,1.167
+Pune,Hinjewadi,411057,3,10.71,1.292
+Pune,Hinjewadi,411057,4,7.42,1.388
+Pune,Hinjewadi,411057,5,9.85,1.524
+Pune,Viman Nagar,411014,1,5.29,1.053
+Pune,Viman Nagar,411014,2,10.12,1.159
+Pune,Viman Nagar,411014,3,4.73,1.214
+Pune,Viman Nagar,411014,4,4.7,1.271
+Pune,Viman Nagar,411014,5,6.54,1.354
+Kolkata,Ballygunge,700019,1,5.89,1.059
+Kolkata,Ballygunge,700019,2,3.57,1.097
+Kolkata,Ballygunge,700019,3,4.15,1.142
+Kolkata,Ballygunge,700019,4,4.07,1.189
+Kolkata,Ballygunge,700019,5,3.27,1.228
+Kolkata,Salt Lake,700064,1,5.86,1.059
+Kolkata,Salt Lake,700064,2,5.46,1.116
+Kolkata,Salt Lake,700064,3,11.5,1.245
+Kolkata,Salt Lake,700064,4,8.01,1.344
+Kolkata,Salt Lake,700064,5,6.0,1.425
+Kolkata,New Town,700156,1,17.43,1.174
+Kolkata,New Town,700156,2,17.19,1.376
+Kolkata,New Town,700156,3,16.77,1.607
+Kolkata,New Town,700156,4,7.01,1.72
+Kolkata,New Town,700156,5,13.67,1.955
+Ahmedabad,Satellite,380015,1,10.3,1.103
+Ahmedabad,Satellite,380015,2,5.22,1.161
+Ahmedabad,Satellite,380015,3,5.58,1.225
+Ahmedabad,Satellite,380015,4,5.14,1.288
+Ahmedabad,Satellite,380015,5,6.44,1.371
+Ahmedabad,Bopal,380058,1,12.98,1.13
+Ahmedabad,Bopal,380058,2,7.71,1.217
+Ahmedabad,Bopal,380058,3,5.82,1.288
+Ahmedabad,Bopal,380058,4,7.21,1.381
+Ahmedabad,Bopal,380058,5,11.06,1.533
+Ahmedabad,SG Highway,380054,1,0.5,1.005
+Ahmedabad,SG Highway,380054,2,8.67,1.092
+Ahmedabad,SG Highway,380054,3,6.83,1.167
+Ahmedabad,SG Highway,380054,4,5.55,1.231
+Ahmedabad,SG Highway,380054,5,2.23,1.259
+Jaipur,Vaishali Nagar,302021,1,9.35,1.094
+Jaipur,Vaishali Nagar,302021,2,6.62,1.166
+Jaipur,Vaishali Nagar,302021,3,8.87,1.269
+Jaipur,Vaishali Nagar,302021,4,4.11,1.322
+Jaipur,Vaishali Nagar,302021,5,1.8,1.345
+Jaipur,Malviya Nagar,302017,1,3.83,1.038
+Jaipur,Malviya Nagar,302017,2,6.83,1.109
+Jaipur,Malviya Nagar,302017,3,2.05,1.132
+Jaipur,Malviya Nagar,302017,4,7.93,1.222
+Jaipur,Malviya Nagar,302017,5,12.5,1.375
+Jaipur,Mansarovar,302020,1,0.5,1.005
+Jaipur,Mansarovar,302020,2,5.8,1.063
+Jaipur,Mansarovar,302020,3,8.22,1.151
+Jaipur,Mansarovar,302020,4,8.13,1.244
+Jaipur,Mansarovar,302020,5,14.9,1.43
+Lucknow,Gomti Nagar,226010,1,6.22,1.062
+Lucknow,Gomti Nagar,226010,2,6.62,1.132
+Lucknow,Gomti Nagar,226010,3,6.4,1.205
+Lucknow,Gomti Nagar,226010,4,8.94,1.313
+Lucknow,Gomti Nagar,226010,5,12.44,1.476
+Lucknow,Hazratganj,226001,1,6.0,1.06
+Lucknow,Hazratganj,226001,2,9.06,1.156
+Lucknow,Hazratganj,226001,3,6.19,1.228
+Lucknow,Hazratganj,226001,4,3.47,1.27
+Lucknow,Hazratganj,226001,5,8.23,1.375
+Lucknow,Indira Nagar,226016,1,8.9,1.089
+Lucknow,Indira Nagar,226016,2,15.44,1.257
+Lucknow,Indira Nagar,226016,3,12.71,1.417
+Lucknow,Indira Nagar,226016,4,13.2,1.604
+Lucknow,Indira Nagar,226016,5,5.57,1.693
+Chandigarh,Sector 22,160022,1,4.08,1.041
+Chandigarh,Sector 22,160022,2,5.92,1.102
+Chandigarh,Sector 22,160022,3,3.29,1.139
+Chandigarh,Sector 22,160022,4,3.84,1.182
+Chandigarh,Sector 22,160022,5,4.5,1.235
+Chandigarh,Sector 43,160043,1,3.82,1.038
+Chandigarh,Sector 43,160043,2,7.17,1.113
+Chandigarh,Sector 43,160043,3,7.56,1.197
+Chandigarh,Sector 43,160043,4,5.92,1.268
+Chandigarh,Sector 43,160043,5,3.75,1.315
+Chandigarh,Zirakpur,140603,1,5.26,1.053
+Chandigarh,Zirakpur,140603,2,10.02,1.158
+Chandigarh,Zirakpur,140603,3,7.88,1.249
+Chandigarh,Zirakpur,140603,4,9.45,1.367
+Chandigarh,Zirakpur,140603,5,4.97,1.435
+Indore,Vijay Nagar,452010,1,8.75,1.087
+Indore,Vijay Nagar,452010,2,9.84,1.194
+Indore,Vijay Nagar,452010,3,3.57,1.237
+Indore,Vijay Nagar,452010,4,6.12,1.313
+Indore,Vijay Nagar,452010,5,2.53,1.346
+Indore,Palasia,452001,1,7.64,1.076
+Indore,Palasia,452001,2,10.45,1.189
+Indore,Palasia,452001,3,7.8,1.282
+Indore,Palasia,452001,4,5.7,1.355
+Indore,Palasia,452001,5,6.31,1.44
+Indore,Rau,453331,1,11.56,1.116
+Indore,Rau,453331,2,3.31,1.153
+Indore,Rau,453331,3,9.24,1.259
+Indore,Rau,453331,4,8.89,1.371
+Indore,Rau,453331,5,7.98,1.48
+Kochi,Kakkanad,682030,1,6.22,1.062
+Kochi,Kakkanad,682030,2,7.76,1.145
+Kochi,Kakkanad,682030,3,4.47,1.196
+Kochi,Kakkanad,682030,4,5.23,1.258
+Kochi,Kakkanad,682030,5,8.32,1.363
+Kochi,Marine Drive,682031,1,5.91,1.059
+Kochi,Marine Drive,682031,2,6.02,1.123
+Kochi,Marine Drive,682031,3,7.94,1.212
+Kochi,Marine Drive,682031,4,5.79,1.282
+Kochi,Marine Drive,682031,5,5.57,1.354
+Kochi,Edappally,682024,1,11.92,1.119
+Kochi,Edappally,682024,2,16.94,1.309
+Kochi,Edappally,682024,3,6.88,1.399
+Kochi,Edappally,682024,4,11.04,1.553
+Kochi,Edappally,682024,5,7.83,1.675
+Surat,Vesu,395007,1,4.65,1.047
+Surat,Vesu,395007,2,7.42,1.124
+Surat,Vesu,395007,3,9.32,1.229
+Surat,Vesu,395007,4,4.99,1.29
+Surat,Vesu,395007,5,10.85,1.43
+Surat,Adajan,395009,1,6.32,1.063
+Surat,Adajan,395009,2,6.16,1.129
+Surat,Adajan,395009,3,9.74,1.239
+Surat,Adajan,395009,4,8.3,1.342
+Surat,Adajan,395009,5,5.3,1.413
+Surat,City Light,395007,1,3.38,1.034
+Surat,City Light,395007,2,9.43,1.131
+Surat,City Light,395007,3,6.35,1.203
+Surat,City Light,395007,4,9.74,1.32
+Surat,City Light,395007,5,5.02,1.387
+Bhubaneswar,Patia,751024,1,8.5,1.085
+Bhubaneswar,Patia,751024,2,3.8,1.126
+Bhubaneswar,Patia,751024,3,4.48,1.177
+Bhubaneswar,Patia,751024,4,6.21,1.25
+Bhubaneswar,Patia,751024,5,12.49,1.406
+Bhubaneswar,Saheed Nagar,751007,1,8.2,1.082
+Bhubaneswar,Saheed Nagar,751007,2,10.76,1.198
+Bhubaneswar,Saheed Nagar,751007,3,13.58,1.361
+Bhubaneswar,Saheed Nagar,751007,4,10.35,1.502
+Bhubaneswar,Saheed Nagar,751007,5,10.22,1.656
+Bhubaneswar,Chandrasekharpur,751016,1,9.6,1.096
+Bhubaneswar,Chandrasekharpur,751016,2,15.52,1.266
+Bhubaneswar,Chandrasekharpur,751016,3,10.64,1.401
+Bhubaneswar,Chandrasekharpur,751016,4,14.12,1.599
+Bhubaneswar,Chandrasekharpur,751016,5,7.55,1.719
+Raipur,Shankar Nagar,492007,1,9.59,1.096
+Raipur,Shankar Nagar,492007,2,8.79,1.192
+Raipur,Shankar Nagar,492007,3,6.54,1.27
+Raipur,Shankar Nagar,492007,4,3.28,1.312
+Raipur,Shankar Nagar,492007,5,8.47,1.423
+Raipur,Telibandha,492006,1,11.04,1.11
+Raipur,Telibandha,492006,2,4.5,1.16
+Raipur,Telibandha,492006,3,9.67,1.273
+Raipur,Telibandha,492006,4,10.34,1.404
+Raipur,Telibandha,492006,5,14.0,1.601
+Raipur,VIP Road,492001,1,8.43,1.084
+Raipur,VIP Road,492001,2,9.61,1.189
+Raipur,VIP Road,492001,3,7.06,1.273
+Raipur,VIP Road,492001,4,6.57,1.356
+Raipur,VIP Road,492001,5,7.1,1.452
+Ranchi,Lalpur,834001,1,6.15,1.062
+Ranchi,Lalpur,834001,2,6.79,1.134
+Ranchi,Lalpur,834001,3,9.06,1.236
+Ranchi,Lalpur,834001,4,9.14,1.349
+Ranchi,Lalpur,834001,5,8.84,1.469
+Ranchi,Harmu,834002,1,10.4,1.104
+Ranchi,Harmu,834002,2,14.95,1.269
+Ranchi,Harmu,834002,3,14.92,1.458
+Ranchi,Harmu,834002,4,9.7,1.6
+Ranchi,Harmu,834002,5,16.01,1.856
+Ranchi,Kanke Road,834006,1,15.4,1.154
+Ranchi,Kanke Road,834006,2,9.69,1.266
+Ranchi,Kanke Road,834006,3,6.25,1.345
+Ranchi,Kanke Road,834006,4,7.39,1.444
+Ranchi,Kanke Road,834006,5,9.4,1.58
+Dehradun,Rajpur Road,248001,1,5.38,1.054
+Dehradun,Rajpur Road,248001,2,4.04,1.096
+Dehradun,Rajpur Road,248001,3,3.94,1.14
+Dehradun,Rajpur Road,248001,4,5.15,1.198
+Dehradun,Rajpur Road,248001,5,4.84,1.256
+Dehradun,Sahastradhara Road,248013,1,1.82,1.018
+Dehradun,Sahastradhara Road,248013,2,10.02,1.12
+Dehradun,Sahastradhara Road,248013,3,10.61,1.239
+Dehradun,Sahastradhara Road,248013,4,9.29,1.354
+Dehradun,Sahastradhara Road,248013,5,1.19,1.37
+Dehradun,Clement Town,248002,1,8.14,1.081
+Dehradun,Clement Town,248002,2,11.04,1.201
+Dehradun,Clement Town,248002,3,14.61,1.376
+Dehradun,Clement Town,248002,4,18.78,1.635
+Dehradun,Clement Town,248002,5,9.05,1.783
