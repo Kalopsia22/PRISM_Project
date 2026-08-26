@@ -1,2 +1,0 @@
-auc,precision,recall,f1,true_negative,false_positive,false_negative,true_positive
-0.9770622233031099,0.8752556237218814,0.9244060475161987,0.8991596638655461,2772,61,35,428
