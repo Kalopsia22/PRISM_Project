@@ -283,7 +283,7 @@ prism/
 
 ## 🧭 Known Limitations
 
-- **All core data is synthetic** — calibrated to real regulatory anchors and a real scraped-listings dataset, but not itself a record of real transactions. Bulk Indian registered-transaction data has no single public API to draw from.
+- **Data used is a mix of authentic and synthetic data** — calibrated to real regulatory anchors and a real scraped-listings dataset, but not itself a record of real transactions. Bulk Indian registered-transaction data has no single public API to draw from.
 - **Rent prediction is noisier than price prediction by nature** (MAPE 20.7% vs. 4.9%) — landlord-level idiosyncrasy in rental markets isn't fully captured by locality/property features alone.
 - **Locality recalibration and validation only cover 7 cities** with real scraped listings; the remaining 11 cities rely entirely on circle-rate-calibrated synthetic bands.
 - **Fraud and AML labels are synthetic-by-injection** — realistic typologies layered onto synthetic data, not sourced from real adjudicated cases.
